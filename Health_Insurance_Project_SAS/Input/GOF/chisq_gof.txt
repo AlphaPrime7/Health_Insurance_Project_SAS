@@ -1,0 +1,15 @@
+Category,Cat_code,Freq,Exp prop,Exp Freq
+SFS_AA,1,210.00,16.67%,172.1666667
+NFS_AA,2,190.00,16.67%,172.1666667
+LFS_AA,3,85.00,16.67%,172.1666667
+SFS_BA,4,248.00,16.67%,172.1666667
+NFS_BA,5,234.00,16.67%,172.1666667
+LFS_BA,6,66.00,16.67%,172.1666667
+			
+
+Note: The hypothesis is family size and amount spent on health care will not affect the distribution for the proportions of people that spend on health care.
+In short, health costs and family size will not generate an unequal proportion of people spending in each category.
+Decision: family size and health expense does not affect the health care spending habits of patients or prospective insurees (gauged by proportions of patients per group).
+
+AKA = GOF test or one-way chisq used to see if an observed distro follows an expected or hypothesized distro.
+Dec: Our observed chi-sq distribution does not follow the expected or proposed or hypothesized distro (p < 0.05).

@@ -1,0 +1,5 @@
+﻿sfs,exp_code,freq,exp_freq
+AA,1,210,229
+BA,0,248,229
+
+
